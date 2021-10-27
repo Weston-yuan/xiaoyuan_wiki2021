@@ -20,7 +20,7 @@ ruby 2.6.3p62 (系统）
 
 % rbenv init
 
-% eval "$(rbenv init - zsh)"
+% eval "$(rbenv init - zsh)"  写入zshrc 。可选操作（export PATH="/Users/yuanwenyu/.rbenv/shims:$PATH"）
 
 % ruby -v
 
