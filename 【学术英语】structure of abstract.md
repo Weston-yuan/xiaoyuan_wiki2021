@@ -42,6 +42,25 @@ e. by indicating the structure of the RP
 
 
 
+### 【3】structure of the Discussion/Conclusion  
+
+Move 1 --- Background information   
+>  research purpose, theory, methodology  
+（optional)  
+
+Move 2 --- Summarizing and reporting key results   
+>  （Obligatory)    
+
+Move 3 --- Commenting on the key results     
+>  making claims, explaining the results, comparing the new work with the previous studies, offering alternative explanations   
+（Obligatory)  
+
+Move 4 --- Stating the limitations of the study      
+> （optional) 
+
+Move 5 --- Making recommendations for future implementation and/or for future research      
+> （optional) 
+
 
 
 
